@@ -1,0 +1,10 @@
+(1) When the no of hidden nodes increases, the model becomes more complex and therefore it can capture more useful patterns
+
+    Accuracy increases
+
+
+
+(2) First accuracy increases
+    Then the accuracy might decrease
+    The optimal number of hidden nodes balances between underfitting and overfitting, providing good accuracy
+    
